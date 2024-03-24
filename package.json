@@ -1,0 +1,23 @@
+{
+  "name": "e2etest-meutudo",
+  "version": "1.0.0",
+  "description": "front-end test for meutudo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DambroskiGustavo/e2etest-meutudo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DambroskiGustavo/e2etest-meutudo/issues"
+  },
+  "homepage": "https://github.com/DambroskiGustavo/e2etest-meutudo#readme",
+  "dependencies": {
+    "cypress": "^3.6.0"
+  }
+}
