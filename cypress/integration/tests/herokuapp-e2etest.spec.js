@@ -6,25 +6,25 @@ describe('Challengig Dom', () => {
         cy.get('h3').should('have.text', 'Challenging DOM')
       })
 
-    it('[CTW-O1]Validar o botão azul', ()=> {     
+    it('Validar o botão azul', ()=> {     
         cy.get('.button')
         .eq(0)    
         .click()
     })
 
-    it('[CTW-O2]Validar o botão vermelho', ()=> {
+    it('Validar o botão vermelho', ()=> {
         cy.get('.button')
         .eq(1)    
         .click()
     })
 
-    it('[CTW-O3]Validar o botão verde', ()=> {     
+    it('Validar o botão verde', ()=> {     
         cy.get('.button')
         .eq(2)    
         .click()
     })
 
-    it('[CTW-O4]Validar todos os botões "edit"', ()=> {        
+    it('Validar todos os botões "edit"', ()=> {        
         cy.get('[href="#edit"]')
             .should('have.length', 10)
             .each(function($edit){
@@ -33,7 +33,7 @@ describe('Challengig Dom', () => {
         })   
     })
 
-    it('[CTW-O4]Validar todos os botões "delete"', ()=> {        
+    it('Validar todos os botões "delete"', ()=> {        
         cy.get('[href="#delete"]')
             .should('have.length', 10)
             .each(function($delete){
