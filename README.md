@@ -17,3 +17,7 @@ executar o projeto com o comando "npm run cypress:open"
 * DESAFIO 2 (CASE 2)
 * a - Crie uma automação que valide os 4 verbos HTTP ( GET, POST, PUT, DELETE) da api disponibilizada no endpoint a seguir: http://jsonplaceholder.typicode.com/users
 * b - Valide também o JSON schema, e os HTTP code das respostas. 
+
+# Informações
+* Creio que o case 2 foi desenvolvido como proposta
+* Creio que o case 3 não foi desenvolvimento como proposta, pelo menos não 100% 
