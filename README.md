@@ -19,5 +19,5 @@ executar o projeto com o comando "npm run cypress:open"
 * b - Valide também o JSON schema, e os HTTP code das respostas. 
 
 # Informações
-* Creio que o case 2 foi desenvolvido como proposta
+* Creio que o case 2 foi desenvolvido como proposto
 * Creio que o case 3 não foi desenvolvimento como proposta, pelo menos não 100% 
