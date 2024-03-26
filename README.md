@@ -10,5 +10,10 @@
 executar o projeto com o comando "npm run cypress:open"
 
 # Desafios
+* DESAFIO 1 (CASE 2)
 * a -  Sua automação deve efetuar um clique em todos os 3 botões apresentados em tela.
 * b -  Sua automação deve clicar em todos os botões edit e delete da grid apresentada.
+
+* DESAFIO 2 (CASE 2)
+* a - Crie uma automação que valide os 4 verbos HTTP ( GET, POST, PUT, DELETE) da api disponibilizada no endpoint a seguir: http://jsonplaceholder.typicode.com/users
+* b - Valide também o JSON schema, e os HTTP code das respostas. 
